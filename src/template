@@ -1,0 +1,12 @@
+#ifndef Chi_Header_H
+#define Chi_Header_H
+
+/* Declarations */
+
+#endif
+
+#ifdef Chi_Implementation
+
+/* Implementation */
+
+#endif
